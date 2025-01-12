@@ -2,6 +2,8 @@
 <html>
 <head>
 <title>My first Vue page</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/flexbox-grid.css?version0.1">
 <style>
     #app {
       display: inline-block;
@@ -13,9 +15,27 @@
 </head>
 <body>
  
-<h1>Example with JavaScript inside {{ }}</h1>
- 
-<p>The 'message' text from the Vue instance is put together with another text and a JavaScript expression. The JavaScript expression creates a random integer between 1 and 6.</p>
+  <div class="container">
+    <header>
+        <h1>My Personal Profile Webpage</h1>
+        </header>
+    <main>
+        <section class="main-content">
+            
+            <div><br>About me</div>
+            <div><br>(Do not include birthdate / age / contact information)</div>
+            <div><br>Education/Achievements: Elementary and Senior High School Graduate</div>
+            <div><br>Course: Computer Science</div>
+            <div><br>IT Experience: Programming, FiveM Developer, and Habbo Retros developer</div>
+            <div><br>Hobbies & Interests: Gigs, films, and theatre arts</div>
+            <div><br>Goals in Life/Dream: To be successful</div>
+            <div><br>Picture Gallery</div>
+            </section>
+        <aside class="sidebar"> </aside>
+    </main>
+    <footer> Asia Pacific College </footer>
+</div>
+
  
 <div id="app">
   {{ message }} <br>
