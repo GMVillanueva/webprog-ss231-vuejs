@@ -1,5 +1,5 @@
 <template>
-<div class="container">
+<div class="PersonalProfile">
     <header>
         <h1>My Personal Profile Webpage</h1>
         </header>
