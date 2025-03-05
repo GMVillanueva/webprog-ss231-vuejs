@@ -10,7 +10,7 @@ export default {
   data() {
     return {
       name: 'Apples',
-      message: 'Red apples'
+      message: 'I like apples'
     }
   }
 };
