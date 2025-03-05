@@ -20,3 +20,6 @@
         <footer> Asia Pacific College </footer>
     </div>
 </template>
+
+<script></script>
+<style></style>
