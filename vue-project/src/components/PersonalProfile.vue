@@ -14,8 +14,7 @@
                 <div><br>Goals in Life/Dream: To be successful</div>
                 <div><br>Picture Gallery</div>
             </section>
-            aside class="sidebar"> 
-                </aside>
+            <aside class="sidebar"></aside>
             </main>
         <footer> Asia Pacific College </footer>
     </div>
