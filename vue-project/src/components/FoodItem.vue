@@ -10,7 +10,7 @@ export default {
   data() {
     return {
       name: 'Apples',
-      message: 'I like apples'
+      message: 'An Apple a day, keeps the Doctor away'
     }
   }
 };
@@ -22,5 +22,5 @@ export default {
     display: inline-block;
     margin: 10px;
     padding: 10px;
-    background-color: lightred;
+    background-color: lightpink;
   }</style>
